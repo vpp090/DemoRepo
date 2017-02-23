@@ -1,2 +1,2 @@
-Feature1 changed
-
+Feature2
+Feature2 changes
